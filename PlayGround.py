@@ -1,4 +1,4 @@
-s1 = "dab"
-s2 = "aaaaaaa"
+a = None
 
-print(s1 > s2)
+if a:
+    print("lalalla")
